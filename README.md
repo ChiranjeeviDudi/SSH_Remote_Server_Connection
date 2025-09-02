@@ -9,7 +9,9 @@ Generated the SSH keys in the Main server to connect the remote servers (target 
 Created "server_list.conf" file, Inside that we kept multiple IP's of remote server.
 
 🔐 SSH Remote Server Connection Setup
+
 📌 Scenario:
+
 
 You created multiple EC2 servers on AWS.
 

@@ -27,7 +27,6 @@ One server will be the Main Server (Jump server).
 
 Others are Target Servers.
 
-🖼️ Diagram:
 
 ⚙️ Step 2: Connect to the Main Server
 
@@ -51,7 +50,6 @@ Private Key: ~/.ssh/id_rsa
 
 Public Key: ~/.ssh/id_rsa.pub
 
-🖼️ Diagram:
 
 ⚙️ Step 4: Copy Public Key to Remote (Target) Servers
 
@@ -69,7 +67,6 @@ on each target server.
 
 🔑 This allows passwordless SSH login from Main Server → Target Servers.
 
-🖼️ Diagram:
 
 ⚙️ Step 5: Create Server List File
 
